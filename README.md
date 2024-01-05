@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studing on ICBT<br><br>🌱 I’m currently learning Flutter and Dart etc.<br><br>👯 I’m looking to collaborate on Clients<br><br>🤝 I’m looking for help with Project Group Mates<br><br>👨‍💻 All of my projects are available at https://github.com/kanishkapasi<br><br>💬 Ask me about HTML, CSS, JavaScript, MERN STACK<br><br>📫 How to reach me kanishkapasindu6@gmail.com<br><br>⚡ Fun fact I am funny
+🔭 I’m currently studying on ICBT<br><br>🌱 I’m currently learning Flutter and Dart etc.<br><br>👯 I’m looking to collaborate on Clients<br><br>🤝 I’m looking for help with Project Group Mates<br><br>👨‍💻 All of my projects are available at https://github.com/kanishkapasi<br><br>💬 Ask me about HTML, CSS, JavaScript, MERN STACK<br><br>📫 How to reach me kanishkapasindu6@gmail.com<br><br>⚡ Fun fact I am funny
 
 
 ## 🌐 Socials:
